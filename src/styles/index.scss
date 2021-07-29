@@ -1,0 +1,19 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+body {
+    background-image: url("https://images.alphacoders.com/551/thumb-1920-5513.jpg");
+}
+
+.counter {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.5) ();
+    color:green;
+    padding-top: 5rem;
+    border-radius: 2rem;
+    padding-bottom: 5rem;
+    font-size: 10rem;
+    width: 45rem;
+}
